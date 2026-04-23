@@ -1,1 +1,1 @@
-"# Caso-de-Estudo" 
+Aanálise e limpeza de dados de uma base de dados de ciclistas com determinados planos, a finalidade desse caso de estudo foi entender as formas que os ciclistas utilizam os determinados planos, Casual Riders e Annual Memberships, para que se possa converter ciclistas do plano Casual Riders para Annual Memberships
