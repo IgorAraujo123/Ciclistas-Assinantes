@@ -9,6 +9,7 @@ Análise de padrões do usuários<br>
 Utilização de Gráficos
 
 ## Dados
+Link: [Dados](https://divvy-tripdata.s3.amazonaws.com/index.html)
 5860568 linhas<br>
 10 variavéis e 1 classe
 
